@@ -1,0 +1,8 @@
+{
+  "version": "0.1.7",
+  "target": "linux-arm64",
+  "publishedAt": "2026-10-16T20:01:56Z",
+  "url": "https://github.com/anturno/releases/releases/download/desktop-v0.1.7/anturno-0.1.7-linux-arm64.AppImage",
+  "sha256": "b9fa0479d3c2781382b03518c60b6ebf0b6115e2d34767e90a4fd8cef2797d62",
+  "size": 155156342
+}
