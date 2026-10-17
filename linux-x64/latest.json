@@ -1,8 +1,8 @@
 {
-  "version": "0.1.8",
+  "version": "0.1.9",
   "target": "linux-x64",
-  "publishedAt": "2026-10-17T21:02:55Z",
-  "url": "https://github.com/anturno/releases/releases/download/desktop-v0.1.8/anturno-0.1.8-linux-x64.AppImage",
-  "sha256": "6822f605715a004183dcc8bfeb9f0927e2a9233e3390077b6832cf861f4d7d90",
-  "size": 164179215
+  "publishedAt": "2026-10-17T23:17:33Z",
+  "url": "https://github.com/anturno/releases/releases/download/desktop-v0.1.9/anturno-0.1.9-linux-x64.AppImage",
+  "sha256": "75ab0ccb3bc254b425a246714d37d802b7b1fa1bf231bde060731e4ef7dad1b9",
+  "size": 164179707
 }
