@@ -1,8 +1,8 @@
 {
-  "version": "0.1.7",
+  "version": "0.1.8",
   "target": "win32-arm64",
-  "publishedAt": "2026-10-16T20:01:38Z",
-  "url": "https://github.com/anturno/releases/releases/download/desktop-v0.1.7/anturno-0.1.7-win32-arm64.exe",
-  "sha256": "\\06ad77fa0175536054ffc4daf295750f971af2fe6f6f4a1d6481668863b26be5",
-  "size": 165400996
+  "publishedAt": "2026-10-17T21:03:59Z",
+  "url": "https://github.com/anturno/releases/releases/download/desktop-v0.1.8/anturno-0.1.8-win32-arm64.exe",
+  "sha256": "\\7fae0077e5b94464165060e0e04f70f738b094c69459219de828bd7870637f41",
+  "size": 167237156
 }
