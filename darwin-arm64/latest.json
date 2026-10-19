@@ -1,8 +1,8 @@
 {
-  "version": "0.1.11",
+  "version": "0.1.12",
   "target": "darwin-arm64",
-  "publishedAt": "2026-10-19T13:02:54Z",
-  "url": "https://github.com/anturno/releases/releases/download/desktop-v0.1.11/anturno-0.1.11-darwin-arm64.dmg",
-  "sha256": "884188af7d9f0262b10cea6f471010a083a337e96c4e4c4280409853ebf65d0a",
-  "size": 143067918
+  "publishedAt": "2026-10-19T14:00:24Z",
+  "url": "https://github.com/anturno/releases/releases/download/desktop-v0.1.12/anturno-0.1.12-darwin-arm64.dmg",
+  "sha256": "aa25410515b1e6e78ccea18ab37a32e99cdb22f711bf75f75514a3adff827bc8",
+  "size": 143067778
 }
